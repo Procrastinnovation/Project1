@@ -1,0 +1,57 @@
+/********************
+18SEP2014 JLim Initial custom theme CSS
+********************/
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+h3 {
+text-align:center;}
+	
+h2{
+text-align:center;
+}
+
+h1 {text-align:center;
+}
+	
+.container {
+	width:100%;
+	min-width:500px;
+}
+	
+img {
+display:block;
+margin:auto;
+width:50%;
+}
+
+.container2 {
+	width:50%;
+	margin-left: auto;
+    	margin-right: auto;
+background-color: #FFFFFF;
+color: #000066;
+}
+
+.container3 {
+width:50%;
+      margin:0 auto 0 auto;
+      padding:5px;
+      border:1px solid #3399ff;
+      background:#ffffff;
+}
