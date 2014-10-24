@@ -53,8 +53,11 @@
           <div class="container">
             <div class="carousel-caption">
               <h1>Project 2 Title</h1>
-              <p>View: <code>[link]</code><br>Github:<code>[link]</code></p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Project 2</a></p>
+              <p> 
+                View: <a href="http://p2.ProjectJohnLim.com/"><code>[p2.ProjectJohnLim.com]</code></a><br>
+                  Github: <a href="https://github.com/Procrastinnovation/Project2/"><code>[Github]</code></a>
+            </p>
+              <p><a class="btn btn-lg btn-primary" href="http://p2.ProjectJohnLim.com/" role="button">Project 2</a></p>
             </div>
           </div>
         </div>
@@ -63,8 +66,13 @@
           <div class="container">
             <div class="carousel-caption">
               <h1>Project 3 Title</h1>
-              <p>View: <code>[link]</code><br>Github:<code>[link]</code></p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Project 3</a></p>
+              <p>
+                View: <a href="http://p3.ProjectJohnLim.com/"><code>[p3.ProjectJohnLim.com]</code></a><br>
+                  Github: <a href="https://github.com/Procrastinnovation/Project3/"><code>[Github]</code></a>
+                </p>
+              <p>
+                <a class="btn btn-lg btn-primary" href="http://p3.ProjectJohnLim.com/" role="button">Project 3</a>
+              </p>
             </div>
           </div>
         </div>
@@ -89,10 +97,10 @@
 		<p>I am currently working full time as a software developer at Almac Group which is a pharmaceutical company where we build clinical trials. We mostly use SQL server stored procedure, XML, Jscript and C# to create web and phone access clinical trial that gets approved by the FDA. Our system is accessible via phone or web and is highly configurable and customizable. IXRS empowers clients to proactively manage key aspects of their clinical trials, including randomization, dosing, drug/clinical supplies inventory management, electronic Patient Reported Outcomes (ePRO).</p>
 
 <h2>Why are you taking this course?</h2>
-		<p>With current experience with HTML/CSS and looking to take my web programming skills to the next level with server-side web development, Dynamic Web Application class seems to be a good place to start. I do have HTML/CSS and PHP experience already but, I haven’t used them for about several years. This course will count as one of my enrollment courses for Harvard Extension School. I am in a pursuit of getting master’s degree in fields of Information Technology.</p>
+		<p>With current experience with HTML/CSS and looking to take my web programming skills to the next level with server-side web development, Dynamic Web Application class seems to be a good place to start. I do have HTML/CSS and PHP experience already but, I havenâ€™t used them for about several years. This course will count as one of my enrollment courses for Harvard Extension School. I am in a pursuit of getting masterâ€™s degree in fields of Information Technology.</p>
 		
 		<h2>What previous experience do you have with programming?</h2>
-		<p>I have a bachelor’s degree in ‘Information Sciences and Technology’ in concentration in designing and development with minor in ‘Security Risks and Analysis’. Therefore, I have experience with Visual basic, C++, C#, Java, Processing, max/MSP, Arduino, HTML, XML, JavaScript, SQL and other business applications.</p>
+		<p>I have a bachelorâ€™s degree in â€˜Information Sciences and Technologyâ€™ in concentration in designing and development with minor in â€˜Security Risks and Analysisâ€™. Therefore, I have experience with Visual basic, C++, C#, Java, Processing, max/MSP, Arduino, HTML, XML, JavaScript, SQL and other business applications.</p>
 		
 		<h2>Are you working on a Mac, PC, or some other platform?</h2>
 		<p>I have experience with PC, Mac, Ubuntu and other Linux operating system but, for this course, I will be using PC running on Window 7 64bit.</p>
